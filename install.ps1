@@ -92,3 +92,4 @@ if (!$clippy) {
 }
 
 Write-Host "All done! Navigate to $path and run 'rustlings' to get started!"
+mm
